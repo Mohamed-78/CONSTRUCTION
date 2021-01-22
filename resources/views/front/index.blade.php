@@ -546,7 +546,7 @@
         <section class="ttm-row about-section clearfix">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-7 col-sm-12">
+                    <div class="col-lg-7 col-sm-12" style="padding-top: 2em;">
                         <div class="pr-80 res-991-pr-0">
                             <!-- section title -->
                             <div class="section-title pr-60 res-991-pr-0 clearfix">
@@ -554,7 +554,7 @@
                                     <h5>A PROPOS DE NOUS</h5>
                                     <h3 class="title">Nous vous accompagnons dans votre investissement immobilier</h3>
                                 </div>
-                                <div class="title-desc" style="color: #000;" align="justify">Nous sommes une équipe d’ouvrier dynamique qui mettons notre savoir-faire a votre service selon une idéologie sociale par amour du métier de la construction. Cette passion commune est la boussole qui nous guide sur tous les projets de constructions auquel nous participons. Notre  vision se base sur la problématique de construire des bâtiments à la fois beaux avec des designs minimalistes (simplifiés) et dans la recherche de solutions tant au niveau des matériaux de construction qu’au niveau des techniques de construction afin de pratiquer les  coûts de construction les plus bâts en Côte d’ivoire. Cette idéologie s’inscrire dans une démarche  de  permettre à chaque habitant de la cote d’ivoire d’être propriétaire d’un logement quelques soit son budget. à l’instar des autres villes du pays le boom immobilier en Côte d’Ivoire ne se ressent qu’à Abidjan et ses banlieues, Yamoussoukro, et Bouaké.  C’est ainsi, toujours au cœur de notre idéologie, nous souhaitons laisser une emprunte dans toutes les villes de la Côte d’Ivoire avec nos œuvres architecturales. N’hésitez pas à nous contacter quelques soit la situation géographique de votre terrain, chantier ou projet.<u><a href="#" class="ttm-textcolor-skincolor">{{--    Lire plus</a> --}}</u><br><br>
+                                <div class="title-desc" style="color: #000;font-size: 18px;" align="justify">Nous sommes une équipe d’ouvrier dynamique qui mettons notre savoir-faire a votre service selon une idéologie sociale par amour du métier de la construction. Cette passion commune est la boussole qui nous guide sur tous les projets de constructions auquel nous participons. Notre  vision se base sur la problématique de construire des bâtiments à la fois beaux avec des designs minimalistes (simplifiés) et dans la recherche de solutions tant au niveau des matériaux de construction qu’au niveau des techniques de construction afin de pratiquer les  coûts de construction les plus bâts en Côte d’ivoire. Cette idéologie s’inscrire dans une démarche  de  permettre à chaque habitant de la cote d’ivoire d’être propriétaire d’un logement quelques soit son budget. à l’instar des autres villes du pays le boom immobilier en Côte d’Ivoire ne se ressent qu’à Abidjan et ses banlieues, Yamoussoukro, et Bouaké.  C’est ainsi, toujours au cœur de notre idéologie, nous souhaitons laisser une emprunte dans toutes les villes de la Côte d’Ivoire avec nos œuvres architecturales. N’hésitez pas à nous contacter quelques soit la situation géographique de votre terrain, chantier ou projet.<u><a href="#" class="ttm-textcolor-skincolor">{{--    Lire plus</a> --}}</u><br><br>
                                 <div class="ttm-btn-box pr-20 pb-20">
                                     <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-black" href="/contacts">Contactez-nous</a>
                                 </div>
@@ -565,7 +565,7 @@
                                 </div>
                             </div>
                     </div>
-                    <div class="col-lg-5 col-sm-12">
+                    <div class="col-lg-5 col-sm-12" style="padding-top: 2em;">
                         <div class="ml_30 res-991-ml-0 res-991-mt-30 position-relative">
                             <div class="ttm_single_image-wrapper w100 p-12 with-border">
                                 <img class="img-fluid" src="{{ asset('front/images/single-img-one.jpg') }}" title="single-img-one" alt="single-img-one">
