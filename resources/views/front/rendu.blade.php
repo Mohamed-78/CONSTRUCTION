@@ -35,7 +35,7 @@
                                     <h5>SUCCESS GROUP ORI</h5>
                                     <h3 class="title">RENDU DU PROJET (IMAGE ou VIDEO 3D)</h3>
                                 </div>
-                                <div class="title-desc" align="justify"><p>La 3D est une représentation du projet à réaliser. Cette image ou vidéo vous aidera à vous projeter  pour mieux cerner les contours du projet et d’en apprécier  le style architectural et le design proposé. 
+                                <div class="title-desc" align="justify"><p style="font-size: 18px;color: #000000;">La 3D est une représentation du projet à réaliser. Cette image ou vidéo vous aidera à vous projeter  pour mieux cerner les contours du projet et d’en apprécier  le style architectural et le design proposé. 
                                 Le style architectural étant l’élément central dans la réalisation d’un projet, vous pouvez vous inspirer en consultant nos modèles de maison.  
                                 </p>
                                 <div class="ttm-btn-box pr-20 pb-20">
@@ -53,6 +53,34 @@
                         </div>
                     </div>
                 </div>
+{{--                 <div class="row" style="padding-top: 2em;">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/devis.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>DEVIS ou  COÛT DE REALISATION DU PROJET. </h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/devis"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/bat.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>RÉALISATION DU BATIMENT </h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/realisation_batiment"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> --}}
             </div>
         </section>
        

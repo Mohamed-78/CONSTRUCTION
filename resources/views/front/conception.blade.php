@@ -35,7 +35,7 @@
                                     <h5>SUCCESS GROUP ORI</h5>
                                     <h3 class="title">CONCEPTION DES VUES EN PLAN</h3>
                                 </div>
-                                <div class="title-desc" align="justify"><p>La conception des vues en plan (plan 2D) se fait sur les bases des dimensions du terrain, du relief du terrain, de la description du projet, de la circulation des futurs occupants, de l’aération des pièces et de la luminosité. Toutes fois  l’aspect structurel du bâtiment n’est pas exclu à cette étape de l’étude. Y penser le plutôt en disposant bien les murs permettra de réduire le cout de réalisation du projet.  Puis ces vues en plan vous seront soumis pour appréciation, validation ou modification. </p>
+                                <div class="title-desc" align="justify"><p style="font-size: 18px;color: #000000;">La conception des vues en plan (plan 2D) se fait sur les bases des dimensions du terrain, du relief du terrain, de la description du projet, de la circulation des futurs occupants, de l’aération des pièces et de la luminosité. Toutes fois  l’aspect structurel du bâtiment n’est pas exclu à cette étape de l’étude. Y penser le plutôt en disposant bien les murs permettra de réduire le cout de réalisation du projet.  Puis ces vues en plan vous seront soumis pour appréciation, validation ou modification. </p>
                                 <div class="ttm-btn-box pr-20 pb-20">
                                 <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-black" href="/modeles_de_maison">Consulter nos modèle de maison<i class="ti ti-arrow-right"></i></a>
                                 </div> 
@@ -51,6 +51,48 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- <div class="row" style="padding-top: 2em;">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/3d.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>RENDU DU PROJET (IMAGE ou VIDEO 3D)</h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/rendu_projet"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/devis.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>DEVIS ou  COÛT DE REALISATION DU PROJET. </h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/devis"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/bat.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>RÉALISATION DU BATIMENT </h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/realisation_batiment"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> --}}
             </div>
         </section>
        

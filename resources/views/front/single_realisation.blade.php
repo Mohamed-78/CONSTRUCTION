@@ -41,9 +41,8 @@
 								<p>{{ $single->description }}</p>
 							</div>
 							<div class="ttm-btn-box pr-20 pb-20">
-								<a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-black" href="/contacts">Nous contactez</a>&nbsp;&nbsp;&nbsp;
-								<a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-black" target="_blank" href="mailto:info@successgroup.com" style="float: right: ">Nous contactez via mail</a> 
-							</div>
+                                <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-black" href="/contacts" title=""><i class="fa fa-envelope"></i>Nous contactez</a>
+                            </div>
 						
 							<div class="ttm-service-description mb-30">
 							<br>

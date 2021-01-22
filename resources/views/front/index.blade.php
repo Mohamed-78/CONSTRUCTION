@@ -52,7 +52,7 @@
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            >SUCCESS GROUP ORI</div>
+                            >{{-- SUCCESS GROUP ORI --}}</div>
 
                         <!-- LAYER NR. 3 -->
                         <div class="tp-caption tp-resizeme" 
@@ -63,7 +63,7 @@
                             data-fontsize="['60','60','50','40']"
                             data-lineheight="['75','75','75','60']"
                             data-fontweight="['700','700','700','700']"
-                            data-color="#FFFFFF"
+                            data-color="#252d5e"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -85,7 +85,7 @@
                             data-fontsize="['60','60','50','40']"
                             data-lineheight="['75','75','75','60']"
                             data-fontweight="['700','700','700','700']"
-                            data-color="#FFFFFF"
+                            data-color="#252d5e"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -150,7 +150,7 @@
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            >SUCCESS GROUP ORI</div>
+                            >{{-- SUCCESS GROUP ORI --}}</div>
 
                         <!-- LAYER NR. 10 -->
                         <div class="tp-caption tp-resizeme" 
@@ -161,7 +161,7 @@
                             data-fontsize="['60','60','50','40']"
                             data-lineheight="['75','75','75','60']"
                             data-fontweight="['700','700','700','700']"
-                           data-color="#FFFFFF"
+                           data-color="#252d5e"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -184,7 +184,7 @@
                             data-fontsize="['60','60','50','40']"
                             data-lineheight="['75','75','75','60']"
                             data-fontweight="['700','700','700','700']"
-                            data-color="#FFFFFF"
+                            data-color="#252d5e"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -266,7 +266,7 @@
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            >SUCCESS GROUP ORI</div>
+                            >{{-- SUCCESS GROUP ORI --}}</div>
 
                         <!-- LAYER NR. 3 -->
                         <div class="tp-caption tp-resizeme" 
@@ -277,7 +277,7 @@
                             data-fontsize="['60','60','50','40']"
                             data-lineheight="['75','75','75','60']"
                             data-fontweight="['700','700','700','700']"
-                            data-color="#FFFFFF"
+                            data-color="#252d5e"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -299,7 +299,7 @@
                             data-fontsize="['60','60','50','40']"
                             data-lineheight="['75','75','75','60']"
                             data-fontweight="['700','700','700','700']"
-                           data-color="#FFFFFF"
+                           data-color="#252d5e"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -322,7 +322,7 @@
                             data-fontsize="['17','17','14','14']"
                             data-lineheight="['26','26','24','24']"
                             data-fontweight="['400','400','400','400']"
-                            data-color="#FFFFFF"
+                            data-color="#252d5e"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -353,7 +353,7 @@
                             data-lineheight="['15','15','14','14']"
                             data-fontweight="['600','600','700','700']"
                             data-width="none"
-                            data-color="#FFFFFF"
+                            data-color="#252d5e"
                             data-height="none"
                             data-whitespace="nowrap"
                             data-visibility="['on','on','off','off']"
@@ -365,7 +365,7 @@
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            >SUCCESS GROUP ORI</div>
+                            >{{-- SUCCESS GROUP ORI --}}</div>
 
                         <!-- LAYER NR. 10 -->
                         <div class="tp-caption tp-resizeme" 
@@ -376,7 +376,7 @@
                             data-fontsize="['60','60','50','40']"
                             data-lineheight="['75','75','75','60']"
                             data-fontweight="['700','700','700','700']"
-                           data-color="#FFFFFF"
+                           data-color="#252d5e"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -399,7 +399,7 @@
                             data-fontsize="['60','60','50','40']"
                             data-lineheight="['75','75','75','60']"
                             data-fontweight="['700','700','700','700']"
-                            data-color="#FFFFFF"
+                            data-color="#252d5e"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -464,7 +464,7 @@
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            >SUCCESS GROUP ORI</div>
+                            >{{-- SUCCESS GROUP ORI --}}</div>
 
                         <!-- LAYER NR. 10 -->
                         <div class="tp-caption tp-resizeme" 
@@ -475,7 +475,7 @@
                             data-fontsize="['60','60','50','40']"
                             data-lineheight="['75','75','75','60']"
                             data-fontweight="['700','700','700','700']"
-                           data-color="#FFFFFF"
+                           data-color="#252d5e"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -554,10 +554,12 @@
                                     <h5>A PROPOS DE NOUS</h5>
                                     <h3 class="title">Nous vous accompagnons dans votre investissement immobilier</h3>
                                 </div>
-                                <div class="title-desc" style="color: #000;" align="justify">Nous sommes une équipe d’ouvrier dynamique qui mettons notre savoir-faire a votre service selon une idéologie sociale par amour du métier de la construction. Cette passion commune est la boussole qui nous guide sur tous les projets de constructions auquel nous participons. Notre  vision se base sur la problématique de construire des bâtiments à la fois beaux avec des designs minimalistes (simplifiés) et dans la recherche de solutions tant au niveau des matériaux de construction qu’au niveau des techniques de construction afin de pratiquer les  coûts de construction les plus bâts en Côte d’ivoire. Cette idéologie s’inscrire dans une démarche  de  permettre à chaque habitant de la cote d’ivoire d’être propriétaire d’un logement quelques soit son budget. à l’instar des autres villes du pays le boom immobilier en Côte d’Ivoire ne se ressent qu’à Abidjan et ses banlieues, Yamoussoukro, et Bouaké.  C’est ainsi, toujours au cœur de notre idéologie, nous souhaitons laisser une emprunte dans toutes les villes de la Côte d’Ivoire avec nos œuvres architecturales. N’hésitez pas à <a href="https://wa.me/+22509543162" target="_blank" style="color:red;text-decoration: underline;">nous contacter</a> quelques soit la situation géographique de votre terrain, chantier ou projet.<u><a href="#" class="ttm-textcolor-skincolor">{{--    Lire plus</a> --}}</u>
-                                
+                                <div class="title-desc" style="color: #000;" align="justify">Nous sommes une équipe d’ouvrier dynamique qui mettons notre savoir-faire a votre service selon une idéologie sociale par amour du métier de la construction. Cette passion commune est la boussole qui nous guide sur tous les projets de constructions auquel nous participons. Notre  vision se base sur la problématique de construire des bâtiments à la fois beaux avec des designs minimalistes (simplifiés) et dans la recherche de solutions tant au niveau des matériaux de construction qu’au niveau des techniques de construction afin de pratiquer les  coûts de construction les plus bâts en Côte d’ivoire. Cette idéologie s’inscrire dans une démarche  de  permettre à chaque habitant de la cote d’ivoire d’être propriétaire d’un logement quelques soit son budget. à l’instar des autres villes du pays le boom immobilier en Côte d’Ivoire ne se ressent qu’à Abidjan et ses banlieues, Yamoussoukro, et Bouaké.  C’est ainsi, toujours au cœur de notre idéologie, nous souhaitons laisser une emprunte dans toutes les villes de la Côte d’Ivoire avec nos œuvres architecturales. N’hésitez pas à nous contacter quelques soit la situation géographique de votre terrain, chantier ou projet.<u><a href="#" class="ttm-textcolor-skincolor">{{--    Lire plus</a> --}}</u><br><br>
+                                <div class="ttm-btn-box pr-20 pb-20">
+                                    <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-black" href="/contacts">Contactez-nous</a>
+                                </div>
                             </div>
-                            </div><!-- section title end -->
+                            </div>
                                 <div class="separator">
                                     <div class="sep-line dashed"></div>
                                 </div>
@@ -583,7 +585,7 @@
                 </div>
             </div>
         </section>
-        <section class="ttm-row ttm-bg ttm-bgimage-yes bg-img2 ttm-bgcolor-darkgrey">
+        <section class="ttm-bg ttm-bgimage-yes bg-img2 ttm-bgcolor-darkgrey" style="padding-bottom: 2em;padding-top: 2em;">
             <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
             <div class="container">
                 <div class="row">
@@ -595,21 +597,21 @@
                 </div>
             </div>
         </section>
-       <section class="ttm-row services2-section clearfix">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-2 col-lg-3 col-sm-2"></div>
-                    <div class="col-md-8 col-lg-6 col-sm-8">
-                        <!-- section title -->
-                        <div class="section-title text-center with-desc clearfix">
-                            <div class="title-header">
-                                <h3 style="font-size: 29px;">Offre spéciale construction de clôture:</h3>
-                                <p  class="title-desc" style="color: #000;" align="justify">Profitez dès maintenant de notre offre de construction de clôture. Pour vous qui avez des terrains nus éloignés des habitations, faites d’une pierre deux coups avec cette offre de construction de clôture définitive. Avec notre design d’architecture moderne vous donnerez une belle façade a votre futur bâtiment.  Cette offre s’adresse également à vous qui voulez rafraîchir votre clôture trop simpliste. Veuillez <a href="https://wa.me/+22509543162" target="_blank" style="color:red;text-decoration: underline;">nous contacter</a> pour plus de détails</p>
-                            </div>
-                        </div><!-- section title end -->
+        <div class="container" style="padding-top:3.5em;">
+            <div class="row">
+                <div class="col-md-2 col-lg-3 col-sm-2"></div>
+                <div class="col-md-8 col-lg-6 col-sm-8">
+                    <div class="section-title text-center with-desc clearfix">
+                        <div class="title-header">
+                            <h2 style="font-size: 28px;">Offre spéciale construction de clôture:</h2>
+                            <p  class="title-desc" style="color: #000;" align="justify">Profitez dès maintenant de notre offre de construction de clôture. Pour vous qui avez des terrains nus éloignés des habitations, faites d’une pierre deux coups avec cette offre de construction de clôture définitive. Avec notre design d’architecture moderne vous donnerez une belle façade a votre futur bâtiment.  Cette offre s’adresse également à vous qui voulez rafraîchir votre clôture trop simpliste. Veuillez <a href="https://wa.me/+22509543162" target="_blank" style="color:red;text-decoration: underline;">nous contacter</a> pour plus de détails</p>
+                        </div>
                     </div>
-                    <div class="col-md-2 col-lg-3 col-sm-2"></div>
                 </div>
+                <div class="col-md-2 col-lg-3 col-sm-2"></div>
+            </div>
+        </div>
+         <div class="container" style="padding-bottom: 3em;">
                 <div class="row">
                     <div class="services-slide owl-carousel owl-theme owl-loaded mt-5" data-item="3" data-nav="false" data-dots="false" data-auto="true">
                         @foreach($offre as $off)
@@ -633,12 +635,22 @@
                         @endforeach
                     </div>
                 </div>
+        </div>
 
+        <section class="ttm-bg ttm-bgimage-yes bg-img2 ttm-bgcolor-darkgrey" style="padding-bottom: 2em;padding-top: 2em;">
+            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="text-center mt-20">
+                            <h2 class="title" style="color: white;">NOS DOMAINES D'INTERVENTION</h2>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
         
-        <!-- services-section -->
-         <section class="ttm-row services2-section clearfix" style="background: #f2f2f247;">
+        <section class="ttm-row services2-section clearfix" style="background: #f2f2f247;">
             <style type="text/css" media="screen">
                 #formation{
                     border-radius: 14px;
@@ -656,11 +668,6 @@
                     <div class="col-md-2 col-lg-3 col-sm-2 col-xs-12"></div>
                     <div class="col-md-8 col-lg-6 col-sm-8">
                         <div class="section-title text-center with-desc clearfix">
-                            <div class="title-header">
-                                <h5>NOS SERVICES</h5>
-                                <h2 class="title">NOS DOMAINES D'INTERVENTION</h2>
-                                <p>Spécialiste de l’immobilier, nous vous offrons des prestations de choix.</p>
-                            </div>
                         </div>
                     </div>
                     <div class="col-md-2 col-lg-3 col-sm-2"></div>
@@ -682,7 +689,9 @@
                                 </div>
                                 <div class="featured-desc">
                                     <p>VISITE DU CHANTIER<br>ETAT DES LIEUX<br>   DESCRIPTION DU PROJET<br>CONCEPTION DES PLANS<br>DEVIS DES TRAVAUX DE CONSTRUCTION</p>
-                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="{{ route('contacts') }}">Nous contactez</a>
+                                    <div class="ttm-btn-box pr-20 pb-20">
+                                        <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-black" href="/contacts" title=""><i class="fa fa-envelope"></i>Nous contactez</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -701,7 +710,11 @@
                                 </div>
                                 <div class="featured-desc">
                                     <p>CHANTIERS GROS OEUVRES<br>MODIFICATIONS DE BATIEMNT<br>FINITIONNS DU BATIMENT<br>RENOVATIONS BATIEMENT</p><br>
-                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="{{ route('contacts') }}">Nous contactez</a>
+                                    <div class="ttm-btn-box pr-20 pb-20">
+                                        <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-black" href="/contacts" title=""><i class="fa fa-envelope"></i>Nous contactez</a>
+                                    </div>
+                                    {{-- <br>
+                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="{{ route('contacts') }}">Nous contactez</a> --}}
                                 </div>
                             </div>
                         </div>
@@ -720,7 +733,10 @@
                                 </div>
                                 <div class="featured-desc"><!-- featured-desc-->
                                     <p>LECTURE DES PLANS DEXECUTION<br>ORGANISATION DU CHANTIER<br>REPARTITION DES TACHES<br>ELABORATION DE PLANING<br>CONTROLE DES OUVRAGES</p>
-                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="{{ route('contacts') }}">Nous contactez</a>
+                                    <div class="ttm-btn-box pr-20 pb-20">
+                                        <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-black" href="/contacts" title=""><i class="fa fa-envelope"></i>Nous contactez</a>
+                                    </div>
+                                    {{-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="{{ route('contacts') }}">Nous contactez</a> --}}
                                 </div>
                             </div>
                         </div>

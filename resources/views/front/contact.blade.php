@@ -47,18 +47,20 @@
                             <li>
                                 <h6>ABIDJAN</h6>
                                 <i class="ttm-textcolor-skincolor ti ti-location-pin"></i>
-                                <span>FAYA ROUTE D'ABATTA FACE AB CENTER</span>
+                                <span style="color: #000000;">FAYA ROUTE D'ABATTA FACE AB CENTER</span>
                             </li>
                             <li>
                                 <h6>Adresse-email</h6>
                                 <i class="ttm-textcolor-skincolor ti ti-comment"></i>
-                                <span><a href="mailto:infos@mgimmobilier.org">info@successgroup.com</a></span>
+                                <span style="color: #000000;"><a href="mailto:infos@mgimmobilier.org">info@successgroup.com</a></span>
                             </li>
                             <li>
                                 <h6>Contacts</h6>
                                 <i class="ttm-textcolor-skincolor ti ti-mobile"></i>
-                                <span>(+225) 09-54-31-62</span>
-                            </li>
+                                <span style="color: #000000;">(+225) 09-54-31-62</span>
+                            </li><br><br>
+                            <div class="ttm-btn-box pr-20 pb-20">
+                            <a class="submit ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-bgcolor-darkgrey ttm-icon-btn-left" href="https://wa.me/+22509543162" target="_blank"  style="float: left"><i class="fa fa-whatsapp"></i>Nous contactez via whatsapp</a></div>
                         </ul>
                     </div>
                 </div>
@@ -110,6 +112,7 @@
                                 </span>
                             </label>
                             <input  type="submit" id="submit" class="submit ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-bgcolor-darkgrey" value="ENVOYER">
+                             <a class="submit ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-bgcolor-darkgrey ttm-icon-btn-left" target="_blank" href="mailto:info@successgroup.com" style="float: right;margin-top: 2.2em;"><i class="fa fa-envelope"></i>Nous contactez via mail</a>
                         </form>
                     </div>
                 </div>

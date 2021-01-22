@@ -36,7 +36,7 @@
                                     <h5>SUCCESS GROUP ORI</h5>
                                     <h3 class="title">ETATS DES LIEUX </h3>
                                 </div>
-                                <div class="title-desc" align="justify">L’état des lieux nous permettra d’avoir des informations<p> TERRAIN NU : <br>
+                                <div class="title-desc" align="justify"><p style="font-size: 18px;color: #000000;"> L’état des lieux nous permettra d’avoir des informations TERRAIN NU : <br>
                                 Sur l’accessibilité du terrain<br>
                                 Le repérage des bornes<br>
                                 La nature du relief du terrain<br>
@@ -63,6 +63,73 @@
                         </div>
                     </div>
                 </div>
+                {{-- <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/projet.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>DESCRIPTIONS DU PROJET </h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/description_projet"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/plan.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>CONCEPTION DES VUES EN PLAN</h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/conception_vue"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/3d.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>RENDU DU PROJET (IMAGE ou VIDEO 3D)</h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/rendu_projet"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/devis.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>DEVIS ou  COÛT DE REALISATION DU PROJET. </h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/devis"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/bat.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>RÉALISATION DU BATIMENT </h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/realisation_batiment"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> --}}
             </div>
         </section>
        

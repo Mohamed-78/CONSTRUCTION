@@ -16,7 +16,7 @@
                                             <h5>LOCALISATION</h5>
                                         </div>
                                         <div class="featured-desc">
-                                            <p>ABIDJAN FAYA ROUTE D'ABATTA FACE AB CENTER </p>
+                                            <p style="color: #000000;">ABIDJAN FAYA ROUTE D'ABATTA FACE AB CENTER </p>
                                         </div>
                                     </div>
                                 </div>
@@ -28,7 +28,7 @@
                                             <h5>CONTACTEZ-NOUS</h5>
                                         </div>
                                         <div class="featured-desc">
-                                            <p>(+225) 09-54-31-62</p>
+                                            <p style="color: #000000;">(+225) 09-54-31-62</p>
                                         </div>
                                     </div>
                                 </div>
@@ -40,7 +40,7 @@
                                             <h5>ADRESSE MAIL PRO</h5>
                                         </div>
                                         <div class="featured-desc">
-                                            <p>info@successgroup.com</p>
+                                            <p style="color: #000000;">info@successgroup.com</p>
                                         </div>
                                     </div>
                                 </div>
@@ -74,8 +74,8 @@
                 <div class="widget widget_text clearfix">
                     <h3 class="widget-title">Menu</h3>
                    <ul id="menu-footer-services">
-                        <li><a href="/accueil">Accueil</a></li>
-                        <li><a href="/lotissements">Nos offres</a></li>
+                        <li><a href="{{ route('accueil') }}">Accueil</a></li>
+                        <li><a href="/offres">Nos offres</a></li>
                         <li><a href="/contacts">Nous contactez</a></li>
                     </ul>
                 </div>

@@ -115,7 +115,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-center mt-20">
-                        <h2 class="title" style="color: white;">ETUDE OU TRAVAUX DE CONSTRUCTION</h2>
+                        <h2 class="title" style="color: white;">NOS AUTRES OFFRES DE CONSTRUCTION</h2>
                     </div>
                 </div>
             </div>
@@ -128,11 +128,12 @@
                     <div class="featured-thumbnail"><img class="img-fluid" src="{{ asset('front/images/offre.jpg') }}" alt="">
                     </div>
                     <div class="featured-content featured-content-post">
-                        <div class="post-title featured-title">
                             <h5>NOS OFFRES DE CONSTRUCTIONS</h5>
-                            <p style="font-size: 17px;">Travaux de contruction de nouveau chantier<br>Rehabilitation de batiment<br>Finition de batiment<br>Modification de batiment</p>
-                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/contacts"></i>Nous contactez</a>
-                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" target="_blank" href="mailto:info@successgroup.com" style="float: right;">Nous contactez via mail</a>
+                        <div class="post-title featured-title">
+                            <p style="font-size: 17px;color: #000000;">Travaux de contruction de nouveau chantier<br>Rehabilitation de batiment<br>Finition de batiment<br>Modification de batiment</p>
+                            <div class="ttm-btn-box pr-20 pb-20">
+                                <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-black" href="/contacts" title=""><i class="fa fa-envelope"></i>Nous contactez</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -145,8 +146,10 @@
                     <div class="featured-content featured-content-post">
                         <h5>NOS SERVICES PAR CORPS DE METIER </h5>
                         <div class="featured-desc">
-                            <p style="font-size: 17px;">Maçon Plombier Electricien Ferailleur Menuisier batiment Charpentier Fouilleur Staffeur Feronnier Carreleur Peintre batiment </p>
-                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/contacts">Nous contactez</a><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" target="_blank" href="mailto:info@successgroup.com" style="float: right;">Nous contactez via mail</a>
+                            <p style="font-size: 17px;color: #000000;">Maçon Plombier Electricien Ferailleur<br> Menuisier batiment Charpentier Fouilleur<br> Staffeur Feronnier Carreleur Peintre batiment </p>
+                            <div class="ttm-btn-box pr-20 pb-20">
+                                <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-black" href="/contacts" title=""><i class="fa fa-envelope"></i>Nous contactez</a>
+                            </div><br>
                         </div>
                     </div>
                 </div>

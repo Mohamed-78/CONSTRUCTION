@@ -36,7 +36,7 @@
                                     <h5>SUCCESS GROUP ORI</h5>
                                     <h3 class="title">DESCRIPTION PROJET</h3>
                                 </div>  
-                                <ul class="ttm-list ttm-list-style-icon mt-15">
+                                <ul class="ttm-list ttm-list-style-icon mt-15" style="font-size:18px;color: #000000; ">
                                     <li><i class="ttm-textcolor-skincolor fa fa-arrow-circle-o-right"></i><span class="ttm-list-li-content">Intervalle de budget</span>
                                     </li>
                                     <li><i class="ttm-textcolor-skincolor fa fa-arrow-circle-o-right"></i><span class="ttm-list-li-content">L’usage du futur bâtiment</span>
@@ -55,6 +55,9 @@
                                     </li>
                                     <li><i class="ttm-textcolor-skincolor fa fa-arrow-circle-o-right"></i><span class="tm-list-li-content">Nos recommandations</span>
                                     </li>
+                                    <div class="ttm-btn-box pr-20 pb-20">
+                                        <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-square ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-black" href="/modeles_de_maison">Consulter nos modèle de maison<i class="ti ti-arrow-right"></i></a>
+                                    </div>  
                                 </ul>                              
                                 <p align="justify" style="visibility: hidden;">Constituée essentiellement de professionnels de l'immobilier, d’un personnel dynamique et à l’écoute des bésoins adaptés à la vie urbaine, <strong>MG IMMOBILIER</strong> à pour philosophie la recherche perpétuelle de la qualité à des coûts accessibles.</p>
                             </div>
@@ -68,6 +71,60 @@
                         </div>
                     </div>
                 </div>
+                {{-- <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/plan.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>CONCEPTION DES VUES EN PLAN</h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/conception_vue"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/3d.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>RENDU DU PROJET (IMAGE ou VIDEO 3D)</h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/rendu_projet"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/devis.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>DEVIS ou  COÛT DE REALISATION DU PROJET. </h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/devis"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="featured-imagebox featured-imagebox-post box-shadow">
+                            <div class="featured-thumbnail">
+                                <a href=""><img class="img-fluid" src="{{ asset('front/images/bat.jpg') }}" alt=""></a>
+                            </div>
+                            <div class="featured-content featured-content-post">
+                                <div class="post-title featured-title">
+                                    <h5>RÉALISATION DU BATIMENT </h5>
+                                    <p><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="/realisation_batiment"></i>voir plus</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> --}}
             </div>
         </section>
        
