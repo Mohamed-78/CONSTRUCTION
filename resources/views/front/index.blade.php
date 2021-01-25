@@ -628,7 +628,7 @@
                                     @if(isset($off->description))
                                     <p>{{ $off->description }}</p>
                                     @endif
-                                    <i class="fa fa-whatsapp"><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="https://wa.me/+22509543162?text=Bonjour%20,%20je%20suis%20intéressé%20par%20cette%20offre%20de%20clôture:%20{{ $off->infos }}" target="_blank"></i>Nous contactez</a>
+                                   {{--  <i class="fa fa-whatsapp"><a class="ttm-btn ttm-btn-size-sm ttm-btn-color-darkgrey btn-inline" href="https://wa.me/+22509543162?text=Bonjour%20,%20je%20suis%20intéressé%20par%20cette%20offre%20de%20clôture:%20{{ $off->infos }}" target="_blank"></i>Nous contactez</a> --}}
                                 </div>
                             </div>
                         </div>

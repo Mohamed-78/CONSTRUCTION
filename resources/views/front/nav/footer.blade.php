@@ -84,8 +84,8 @@
                     <div class="widget widget_nav_menu clearfix">
                      <h3 class="widget-title">Suivez-nous sur:</h3>
                      <ul id="menu-footer-services">
-                        <li><a href="https://web.facebook.com/MG-Immobilier-101298968365194"><i class="fa fa-facebook" target="_blank"></i>&nbsp;Facebook</a></li>
-                        <li><a href="mailto:info@mgimmobilier.org" target="_blank"><i class="fa fa-google"></i>&nbsp;Email</a></li>
+                        <li><a href="#"><i class="fa fa-facebook" target="_blank"></i>&nbsp;Facebook</a></li>
+                        <li><a href="mailto:info@successgroup.com" target="_blank"><i class="fa fa-google"></i>&nbsp;Email</a></li>
                         <li><a href="#"><i class="fa fa-linkedin"></i>&nbsp;Linkedin</a></li>
                     </ul>
                 </div>
@@ -109,7 +109,7 @@
         <div class="row copyright">
             <div class="col-md-12">
                 <div class="">
-                    <span>Copyright © 2020&nbsp;.Tous droits reservés | Développé par <a href="http://performservices.com" target="_blank">Soft-Univers</a></span>
+                    <span>Copyright © 2020&nbsp;.Tous droits reservés |{{--  Développé par <a href="http://performservices.com" target="_blank">Soft-Univers</a> --}}</span>
                 </div>
             </div>
         </div>

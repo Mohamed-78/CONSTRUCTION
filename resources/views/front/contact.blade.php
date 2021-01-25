@@ -59,8 +59,8 @@
                                 <i class="ttm-textcolor-skincolor ti ti-mobile"></i>
                                 <span style="color: #000000;">(+225) 09-54-31-62</span>
                             </li><br><br>
-                            <div class="ttm-btn-box pr-20 pb-20">
-                            <a class="submit ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-bgcolor-darkgrey ttm-icon-btn-left" href="https://wa.me/+22509543162" target="_blank"  style="float: left"><i class="fa fa-whatsapp"></i>Nous contactez via whatsapp</a></div>
+                            {{-- <div class="ttm-btn-box pr-20 pb-20">
+                            <a class="submit ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-bgcolor-darkgrey ttm-icon-btn-left" href="https://wa.me/+22509543162" target="_blank"  style="float: left"><i class="fa fa-whatsapp"></i>Nous contactez via whatsapp</a></div> --}}
                         </ul>
                     </div>
                 </div>
